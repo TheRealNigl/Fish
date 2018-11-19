@@ -1,0 +1,33 @@
+Function=xamarin_timezone_get_data
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/alexandernigl/Projects/Fish/Fish.iOS/obj/iPhone/Debug/device-builds/iphone9.2-12.1.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

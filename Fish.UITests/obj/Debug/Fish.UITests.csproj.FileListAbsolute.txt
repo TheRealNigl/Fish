@@ -1,0 +1,10 @@
+/Users/alexandernigl/Projects/Fish/Fish.UITests/bin/Debug/Fish.UITests.dll
+/Users/alexandernigl/Projects/Fish/Fish.UITests/bin/Debug/Fish.UITests.pdb
+/Users/alexandernigl/Projects/Fish/Fish.UITests/bin/Debug/nunit.framework.dll
+/Users/alexandernigl/Projects/Fish/Fish.UITests/bin/Debug/nunit.framework.pdb
+/Users/alexandernigl/Projects/Fish/Fish.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/alexandernigl/Projects/Fish/Fish.UITests/obj/Debug/Fish.UITests.csprojAssemblyReference.cache
+/Users/alexandernigl/Projects/Fish/Fish.UITests/obj/Debug/Fish.UITests.csproj.CoreCompileInputs.cache
+/Users/alexandernigl/Projects/Fish/Fish.UITests/obj/Debug/Fish.UITests.csproj.CopyComplete
+/Users/alexandernigl/Projects/Fish/Fish.UITests/obj/Debug/Fish.UITests.dll
+/Users/alexandernigl/Projects/Fish/Fish.UITests/obj/Debug/Fish.UITests.pdb
